@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Senac</string>
+    <string name="btn_tecnico">Técnico</string>
+    <string name="btn_superior">Superior</string>
+    <string name="titulo">Título</string>
+    <string name="subTitulo">Veja nossos cursos disponíveis:</string>
+
+</resources>
